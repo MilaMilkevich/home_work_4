@@ -1,6 +1,6 @@
-package Shape;
+package main.java.hw4.shape;
 
-import Vertex.Vertex;
+import main.java.hw4.vertex.Vertex;
 
 public abstract class Shape {
     private Vertex vertexA;

@@ -1,8 +1,8 @@
-package Shape.PlaneShape;
+package main.java.hw4.shape.planeShape;
 
 
-import Vertex.Vertex;
-import Vertex.Vertex2D;
+import main.java.hw4.vertex.Vertex;
+import main.java.hw4.vertex.Vertex2D;
 
 public class Triangle extends PlaneShape {
 

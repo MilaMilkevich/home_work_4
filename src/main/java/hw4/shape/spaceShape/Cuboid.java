@@ -1,6 +1,6 @@
-package Shape.SpaceShape;
+package main.java.hw4.shape.spaceShape;
 
-import Vertex.Vertex3D;
+import main.java.hw4.vertex.Vertex3D;
 
 public class Cuboid extends SpaceShape {
     private double width;

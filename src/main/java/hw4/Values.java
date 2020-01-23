@@ -1,12 +1,14 @@
-import Shape.Shape;
-import Shape.PlaneShape.Circle;
-import Shape.PlaneShape.Rectangle;
-import Shape.PlaneShape.Triangle;
-import Shape.SpaceShape.Cuboid;
-import Shape.SpaceShape.Sphere;
-import Shape.SpaceShape.SquarePyramid;
-import Vertex.Vertex2D;
-import Vertex.Vertex3D;
+package main.java.hw4;
+
+import main.java.hw4.shape.Shape;
+import main.java.hw4.shape.planeShape.Circle;
+import main.java.hw4.shape.planeShape.Rectangle;
+import main.java.hw4.shape.planeShape.Triangle;
+import main.java.hw4.shape.spaceShape.Cuboid;
+import main.java.hw4.shape.spaceShape.Sphere;
+import main.java.hw4.shape.spaceShape.SquarePyramid;
+import main.java.hw4.vertex.Vertex2D;
+import main.java.hw4.vertex.Vertex3D;
 
 public class Values {
 

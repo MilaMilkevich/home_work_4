@@ -1,4 +1,4 @@
-package Vertex;
+package main.java.hw4.vertex;
 
 public class Vertex2D extends Vertex {
 
